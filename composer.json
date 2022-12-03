@@ -1,0 +1,11 @@
+{
+    "name": "user/generating-pdf-file",
+    "autoload": {
+        "psr-4": {
+            "User\\GeneratingPdfFile\\": "src/"
+        }
+    },
+    "require": {
+        "fpdf/fpdf": "^1.85"
+    }
+}
